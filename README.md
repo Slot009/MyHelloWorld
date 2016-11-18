@@ -1,2 +1,6 @@
 # MyHelloWorld
-Just for starting
+
+Hi Humans!
+
+Slot Deng here, I like Python and Linux.
+
